@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-やったね。すごいや
+new to go
 github上で更新しました
