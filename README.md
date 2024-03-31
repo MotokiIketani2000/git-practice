@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-やったね。すごいや
+conflictディちゃうぞ
 conflicted 技術に追いついてみせる
 This is not fast foward
